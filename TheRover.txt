@@ -1,0 +1,7 @@
+this mini MarRover app is clearly written in python usinng OOP conncepts.
+The Rover class is seen as a body having composites such as Plateau class for field analysis
+and Position class for keeping track of the Rover's position as a steady descriptor attribute
+ and CompassHeading class forcoordinate. 
+Data handler handles data that comes into the Rover class.
+Every sector is Decoupled so as to Achieve complete control and and allow scalling with ease.
+# for more enquires contact christopherokoro007@gmail.com
